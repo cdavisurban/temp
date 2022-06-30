@@ -1,0 +1,500 @@
+type,treatment_type,indicator,bins,num,total,perc,region,race_dat,age_dat
+headstart,treatment,CANCER,0% to 50%,276790,839207,0.3298232736380893,Regions 1 to 10,NA,NA
+headstart,treatment,CANCER,75% to 90%,398035,839207,0.47429895127185545,Regions 1 to 10,NA,NA
+headstart,treatment,CANCER,90% to 100%,164307,839207,0.19578840500615463,Regions 1 to 10,NA,NA
+headstart,treatment,DSLPM,0% to 50%,417170,839207,0.4971002386777041,Regions 1 to 10,NA,NA
+headstart,treatment,DSLPM,50% to 75%,194102,839207,0.23129216033708014,Regions 1 to 10,NA,NA
+headstart,treatment,DSLPM,75% to 90%,125535,839207,0.14958764643288247,Regions 1 to 10,NA,NA
+headstart,treatment,DSLPM,90% to 100%,102325,839207,0.1219305844684327,Regions 1 to 10,NA,NA
+headstart,treatment,OZONE,0% to 50%,428357,839207,0.5104306803923228,Regions 1 to 10,NA,NA
+headstart,treatment,OZONE,50% to 75%,178349,839207,0.2125208679145908,Regions 1 to 10,NA,NA
+headstart,treatment,OZONE,75% to 90%,114742,839207,0.13672669555902178,Regions 1 to 10,NA,NA
+headstart,treatment,OZONE,90% to 100%,84065,839207,0.10017194804142482,Regions 1 to 10,NA,NA
+headstart,treatment,P_LDPNT,0% to 50%,331947,839207,0.39554841654085343,Regions 1 to 10,NA,NA
+headstart,treatment,P_LDPNT,50% to 75%,275721,839207,0.3285494520422256,Regions 1 to 10,NA,NA
+headstart,treatment,P_LDPNT,75% to 90%,151389,839207,0.1803953017551093,Regions 1 to 10,NA,NA
+headstart,treatment,P_LDPNT,90% to 100%,80150,839207,0.09550682966181169,Regions 1 to 10,NA,NA
+headstart,treatment,PM25,0% to 50%,370178,839207,0.4411045189089223,Regions 1 to 10,NA,NA
+headstart,treatment,PM25,50% to 75%,218703,839207,0.260606739457607,Regions 1 to 10,NA,NA
+headstart,treatment,PM25,75% to 90%,121111,839207,0.1443160030838637,Regions 1 to 10,NA,NA
+headstart,treatment,PM25,90% to 100%,95521,839207,0.11382293045696712,Regions 1 to 10,NA,NA
+headstart,treatment,RESP,0% to 50%,394762,839207,0.47039884081043176,Regions 1 to 10,NA,NA
+headstart,treatment,RESP,75% to 90%,252715,839207,0.3011354767059855,Regions 1 to 10,NA,NA
+headstart,treatment,RESP,90% to 100%,191655,839207,0.2283763123996821,Regions 1 to 10,NA,NA
+headstart,treatment,CANCER,0% to 50%,9259,23714,0.39044446318630344,Migrant and Seasonal Worker,NA,NA
+headstart,treatment,CANCER,75% to 90%,13255,23714,0.5589525175002108,Migrant and Seasonal Worker,NA,NA
+headstart,treatment,CANCER,90% to 100%,1200,23714,0.0506030193134857,Migrant and Seasonal Worker,NA,NA
+headstart,treatment,DSLPM,0% to 50%,18870,23714,0.7957324787045627,Migrant and Seasonal Worker,NA,NA
+headstart,treatment,DSLPM,50% to 75%,3352,23714,0.14135110061567008,Migrant and Seasonal Worker,NA,NA
+headstart,treatment,DSLPM,75% to 90%,1492,23714,0.06291642067976723,Migrant and Seasonal Worker,NA,NA
+headstart,treatment,OZONE,0% to 50%,12949,23714,0.546048747575272,Migrant and Seasonal Worker,NA,NA
+headstart,treatment,OZONE,50% to 75%,3633,23714,0.15320064097157798,Migrant and Seasonal Worker,NA,NA
+headstart,treatment,OZONE,75% to 90%,3700,23714,0.15602597621658093,Migrant and Seasonal Worker,NA,NA
+headstart,treatment,OZONE,90% to 100%,3432,23714,0.14472463523656912,Migrant and Seasonal Worker,NA,NA
+headstart,treatment,P_LDPNT,0% to 50%,13663,23714,0.576157544066796,Migrant and Seasonal Worker,NA,NA
+headstart,treatment,P_LDPNT,50% to 75%,7505,23714,0.3164797166230918,Migrant and Seasonal Worker,NA,NA
+headstart,treatment,P_LDPNT,75% to 90%,2165,23714,0.09129628067808046,Migrant and Seasonal Worker,NA,NA
+headstart,treatment,P_LDPNT,90% to 100%,381,23714,0.01606645863203171,Migrant and Seasonal Worker,NA,NA
+headstart,treatment,PM25,0% to 50%,12969,23714,0.5468921312304967,Migrant and Seasonal Worker,NA,NA
+headstart,treatment,PM25,50% to 75%,3822,23714,0.16117061651345196,Migrant and Seasonal Worker,NA,NA
+headstart,treatment,PM25,75% to 90%,2493,23714,0.10512777262376655,Migrant and Seasonal Worker,NA,NA
+headstart,treatment,PM25,90% to 100%,4430,23714,0.18680947963228473,Migrant and Seasonal Worker,NA,NA
+headstart,treatment,RESP,0% to 50%,13959,23714,0.5886396221641225,Migrant and Seasonal Worker,NA,NA
+headstart,treatment,RESP,75% to 90%,6315,23714,0.26629838913721854,Migrant and Seasonal Worker,NA,NA
+headstart,treatment,RESP,90% to 100%,3440,23714,0.14506198869865902,Migrant and Seasonal Worker,NA,NA
+headstart,treatment,CANCER,0% to 50%,17290,22749,0.7600334080618928,American Indian and Alaskan Native,NA,NA
+headstart,treatment,CANCER,75% to 90%,4441,22749,0.19521737219218427,American Indian and Alaskan Native,NA,NA
+headstart,treatment,CANCER,90% to 100%,1018,22749,0.0447492197459229,American Indian and Alaskan Native,NA,NA
+headstart,treatment,DSLPM,0% to 50%,21861,22749,0.9609653171567981,American Indian and Alaskan Native,NA,NA
+headstart,treatment,DSLPM,50% to 75%,634,22749,0.027869356894808562,American Indian and Alaskan Native,NA,NA
+headstart,treatment,DSLPM,75% to 90%,237,22749,0.010418040353422128,American Indian and Alaskan Native,NA,NA
+headstart,treatment,DSLPM,90% to 100%,17,22749,7.472855949712075e-4,American Indian and Alaskan Native,NA,NA
+headstart,treatment,OZONE,0% to 50%,10084,22749,0.4432722317464504,American Indian and Alaskan Native,NA,NA
+headstart,treatment,OZONE,50% to 75%,3324,22749,0.14611631280495846,American Indian and Alaskan Native,NA,NA
+headstart,treatment,OZONE,75% to 90%,1792,22749,0.07877269330520023,American Indian and Alaskan Native,NA,NA
+headstart,treatment,OZONE,90% to 100%,5261,22749,0.23126291265550133,American Indian and Alaskan Native,NA,NA
+headstart,treatment,P_LDPNT,0% to 50%,18821,22749,0.8273330695854763,American Indian and Alaskan Native,NA,NA
+headstart,treatment,P_LDPNT,50% to 75%,3436,22749,0.15103960613653347,American Indian and Alaskan Native,NA,NA
+headstart,treatment,P_LDPNT,75% to 90%,439,22749,0.019297551540727063,American Indian and Alaskan Native,NA,NA
+headstart,treatment,P_LDPNT,90% to 100%,53,22749,0.002329772737263176,American Indian and Alaskan Native,NA,NA
+headstart,treatment,PM25,0% to 50%,16202,22749,0.7122071299837356,American Indian and Alaskan Native,NA,NA
+headstart,treatment,PM25,50% to 75%,2131,22749,0.0936744472284496,American Indian and Alaskan Native,NA,NA
+headstart,treatment,PM25,75% to 90%,1896,22749,0.08334432282737703,American Indian and Alaskan Native,NA,NA
+headstart,treatment,PM25,90% to 100%,232,22749,0.010198250472548244,American Indian and Alaskan Native,NA,NA
+headstart,treatment,RESP,0% to 50%,18001,22749,0.7912875291221592,American Indian and Alaskan Native,NA,NA
+headstart,treatment,RESP,75% to 90%,2452,22749,0.107784957580553,American Indian and Alaskan Native,NA,NA
+headstart,treatment,RESP,90% to 100%,2296,22749,0.10092751329728779,American Indian and Alaskan Native,NA,NA
+headstart,treatment,heat,0% to 50%,11131,19977,0.5571907693847925,American Indian and Alaskan Native,NA,NA
+headstart,treatment,heat,50% to 75%,2188,19977,0.10952595484807529,American Indian and Alaskan Native,NA,NA
+headstart,treatment,heat,75% to 90%,1064,19977,0.053261250438003706,American Indian and Alaskan Native,NA,NA
+headstart,treatment,heat,90% to 100%,5594,19977,0.2800220253291285,American Indian and Alaskan Native,NA,NA
+headstart,treatment,precipitation,0% to 50%,15291,19977,0.7654302447814987,American Indian and Alaskan Native,NA,NA
+headstart,treatment,precipitation,50% to 75%,1545,19977,0.07733893978074786,American Indian and Alaskan Native,NA,NA
+headstart,treatment,precipitation,75% to 90%,1262,19977,0.0631726485458277,American Indian and Alaskan Native,NA,NA
+headstart,treatment,precipitation,90% to 100%,1879,19977,0.09405816689192571,American Indian and Alaskan Native,NA,NA
+headstart,treatment,heat,0% to 50%,10760,23714,0.45374040651092185,Migrant and Seasonal Worker,NA,NA
+headstart,treatment,heat,50% to 75%,5881,23714,0.2479969638188412,Migrant and Seasonal Worker,NA,NA
+headstart,treatment,heat,75% to 90%,4245,23714,0.17900818082145567,Migrant and Seasonal Worker,NA,NA
+headstart,treatment,heat,90% to 100%,2828,23714,0.11925444884878131,Migrant and Seasonal Worker,NA,NA
+headstart,treatment,precipitation,0% to 50%,14660,23714,0.6182002192797503,Migrant and Seasonal Worker,NA,NA
+headstart,treatment,precipitation,50% to 75%,3082,23714,0.12996542127013577,Migrant and Seasonal Worker,NA,NA
+headstart,treatment,precipitation,75% to 90%,3572,23714,0.15062832082314245,Migrant and Seasonal Worker,NA,NA
+headstart,treatment,precipitation,90% to 100%,2400,23714,0.1012060386269714,Migrant and Seasonal Worker,NA,NA
+headstart,treatment,heat,0% to 50%,409590,805059,0.5087701646711608,Regions 1 to 10,NA,NA
+headstart,treatment,heat,50% to 75%,186414,805059,0.2315532153544026,Regions 1 to 10,NA,NA
+headstart,treatment,heat,75% to 90%,121275,805059,0.15064113313434171,Regions 1 to 10,NA,NA
+headstart,treatment,heat,90% to 100%,87780,805059,0.10903548684009495,Regions 1 to 10,NA,NA
+headstart,treatment,precipitation,0% to 50%,377074,805059,0.4683805783178624,Regions 1 to 10,NA,NA
+headstart,treatment,precipitation,50% to 75%,204756,805059,0.25433663868114015,Regions 1 to 10,NA,NA
+headstart,treatment,precipitation,75% to 90%,126298,805059,0.15688042739724667,Regions 1 to 10,NA,NA
+headstart,treatment,precipitation,90% to 100%,96931,805059,0.12040235560375077,Regions 1 to 10,NA,NA
+headstart,comparison,CANCER,0% to 50%,5863890,19722630,0.29731785263932853,NA,NA,NA
+headstart,comparison,CANCER,75% to 90%,10443724,19722630,0.5295299866194316,NA,NA,NA
+headstart,comparison,CANCER,90% to 100%,3414419,19722630,0.1731218909445647,NA,NA,NA
+headstart,comparison,DSLPM,0% to 50%,9477198,19722630,0.48052404775630836,NA,NA,NA
+headstart,comparison,DSLPM,50% to 75%,5384229,19722630,0.27299751605135825,NA,NA,NA
+headstart,comparison,DSLPM,75% to 90%,3003769,19722630,0.15230063130525695,NA,NA,NA
+headstart,comparison,DSLPM,90% to 100%,1856837,19722630,0.09414753509040123,NA,NA,NA
+headstart,comparison,OZONE,0% to 50%,9691392,19722630,0.4913843640528672,NA,NA,NA
+headstart,comparison,OZONE,50% to 75%,4621345,19722630,0.23431687356098047,NA,NA,NA
+headstart,comparison,OZONE,75% to 90%,2884171,19722630,0.14623663274117094,NA,NA,NA
+headstart,comparison,OZONE,90% to 100%,2383643,19722630,0.1208582729585253,NA,NA,NA
+headstart,comparison,P_LDPNT,0% to 50%,11963064,19722630,0.6065653515783646,NA,NA,NA
+headstart,comparison,P_LDPNT,50% to 75%,4055430,19722630,0.2056231851431579,NA,NA,NA
+headstart,comparison,P_LDPNT,75% to 90%,2289967,19722630,0.11610860214890205,NA,NA,NA
+headstart,comparison,P_LDPNT,90% to 100%,1414169,19722630,0.07170286112957552,NA,NA,NA
+headstart,comparison,PM25,0% to 50%,9190056,19722630,0.46596503610319717,NA,NA,NA
+headstart,comparison,PM25,50% to 75%,4787764,19722630,0.24275484557586893,NA,NA,NA
+headstart,comparison,PM25,75% to 90%,3308825,19722630,0.16776793967133186,NA,NA,NA
+headstart,comparison,PM25,90% to 100%,2293906,19722630,0.11630832196314589,NA,NA,NA
+headstart,comparison,RESP,0% to 50%,8905984,19722630,0.45156168320350787,NA,NA,NA
+headstart,comparison,RESP,75% to 90%,6999858,19722630,0.3549150392214426,NA,NA,NA
+headstart,comparison,RESP,90% to 100%,3816191,19722630,0.1934930077783744,NA,NA,NA
+headstart,comparison,heat,0% to 50%,19809394,39193608,0.5054240987458976,NA,NA,NA
+headstart,comparison,heat,50% to 75%,9566116,39193608,0.244073370331203,NA,NA,NA
+headstart,comparison,heat,75% to 90%,5757633,39193608,0.1469023469337143,NA,NA,NA
+headstart,comparison,heat,90% to 100%,4060465,39193608,0.10360018398918518,NA,NA,NA
+headstart,comparison,precipitation,0% to 50%,18823927,39193608,0.4802805345198125,NA,NA,NA
+headstart,comparison,precipitation,50% to 75%,9806535,39193608,0.2502075083263577,NA,NA,NA
+headstart,comparison,precipitation,75% to 90%,6200784,39193608,0.15820906306967197,NA,NA,NA
+headstart,comparison,precipitation,90% to 100%,4362362,39193608,0.1113028940841578,NA,NA,NA
+tanf,treatment,CANCER,0% to 50%,593558,661608,0.8971445327142357,NA,All,All
+tanf,treatment,CANCER,50% to 75%,45011,661608,0.06803273237324821,NA,All,All
+tanf,treatment,CANCER,75% to 90%,16358,661608,0.024724610343284846,NA,All,All
+tanf,treatment,CANCER,90% to 100%,6681,661608,0.010098124569231327,NA,All,All
+tanf,treatment,CANCER,0% to 50%,5371,7861,0.6832464063096299,NA,Asian,NA
+tanf,treatment,CANCER,50% to 75%,1680,7861,0.21371326803205698,NA,Asian,NA
+tanf,treatment,CANCER,75% to 90%,474,7861,0.06029767205190179,NA,Asian,NA
+tanf,treatment,CANCER,90% to 100%,336,7861,0.0427426536064114,NA,Asian,NA
+tanf,treatment,CANCER,0% to 50%,177569,208517,0.8515804466782085,NA,Black,NA
+tanf,treatment,CANCER,50% to 75%,21758,208517,0.10434640820652513,NA,Black,NA
+tanf,treatment,CANCER,75% to 90%,6803,208517,0.03262563723821079,NA,Black,NA
+tanf,treatment,CANCER,90% to 100%,2387,208517,0.011447507877055587,NA,Black,NA
+tanf,treatment,CANCER,0% to 50%,9203,11829,0.7780032124439936,NA,Hawaian,NA
+tanf,treatment,CANCER,50% to 75%,1627,11829,0.13754332572491335,NA,Hawaian,NA
+tanf,treatment,CANCER,75% to 90%,753,11829,0.06365711387268577,NA,Hawaian,NA
+tanf,treatment,CANCER,90% to 100%,246,11829,0.020796347958407305,NA,Hawaian,NA
+tanf,treatment,CANCER,0% to 50%,84129,103205,0.8151639939925391,NA,Hispanic,NA
+tanf,treatment,CANCER,50% to 75%,12203,103205,0.11824039532968364,NA,Hispanic,NA
+tanf,treatment,CANCER,75% to 90%,4743,103205,0.04595707572307543,NA,Hispanic,NA
+tanf,treatment,CANCER,90% to 100%,2130,103205,0.020638534954701807,NA,Hispanic,NA
+tanf,treatment,CANCER,0% to 50%,19072,24838,0.7678557049681939,NA,Multi-racial,NA
+tanf,treatment,CANCER,50% to 75%,3600,24838,0.14493920605523794,NA,Multi-racial,NA
+tanf,treatment,CANCER,75% to 90%,1393,24838,0.0560834205652629,NA,Multi-racial,NA
+tanf,treatment,CANCER,90% to 100%,773,24838,0.03112166841130526,NA,Multi-racial,NA
+tanf,treatment,CANCER,0% to 50%,10331,22915,0.4508400610953524,NA,Native,NA
+tanf,treatment,CANCER,50% to 75%,6817,22915,0.29749072659829806,NA,Native,NA
+tanf,treatment,CANCER,75% to 90%,3704,22915,0.16164084660702596,NA,Native,NA
+tanf,treatment,CANCER,90% to 100%,2063,22915,0.09002836569932358,NA,Native,NA
+tanf,treatment,CANCER,0% to 50%,200063,240098,0.8332555873018518,NA,White,NA
+tanf,treatment,CANCER,50% to 75%,21149,240098,0.08808486534665012,NA,White,NA
+tanf,treatment,CANCER,75% to 90%,13820,240098,0.05755982973619105,NA,White,NA
+tanf,treatment,CANCER,90% to 100%,5066,240098,0.021099717615307084,NA,White,NA
+tanf,treatment,CANCER,0% to 50%,392130,439081,0.8930698436051663,NA,NA,5_and_over
+tanf,treatment,CANCER,50% to 75%,29926,439081,0.06815598944158367,NA,NA,5_and_over
+tanf,treatment,CANCER,75% to 90%,11888,439081,0.027074731086063848,NA,NA,5_and_over
+tanf,treatment,CANCER,90% to 100%,5137,439081,0.011699435867186237,NA,NA,5_and_over
+tanf,treatment,CANCER,0% to 50%,194282,222527,0.8730715823248415,NA,NA,under_5
+tanf,treatment,CANCER,50% to 75%,19052,222527,0.08561657686482989,NA,NA,under_5
+tanf,treatment,CANCER,75% to 90%,4148,222527,0.01864043464388591,NA,NA,under_5
+tanf,treatment,CANCER,90% to 100%,5045,222527,0.022671406166442722,NA,NA,under_5
+tanf,treatment,CANCER,0% to 50%,37100,42345,0.8761364978155627,NA,NA,NA
+tanf,treatment,CANCER,50% to 75%,3185,42345,0.0752154917936002,NA,NA,NA
+tanf,treatment,CANCER,75% to 90%,1451,42345,0.034266147124808126,NA,NA,NA
+tanf,treatment,CANCER,90% to 100%,609,42345,0.014381863266029048,NA,NA,NA
+tanf,treatment,DSLPM,0% to 50%,506410,661608,0.7654230299512702,NA,All,All
+tanf,treatment,DSLPM,50% to 75%,108643,661608,0.16421052949782952,NA,All,All
+tanf,treatment,DSLPM,75% to 90%,32828,661608,0.049618505217591084,NA,All,All
+tanf,treatment,DSLPM,90% to 100%,13727,661608,0.02074793533330915,NA,All,All
+tanf,treatment,DSLPM,0% to 50%,4520,7861,0.5749904592291057,NA,Asian,NA
+tanf,treatment,DSLPM,50% to 75%,1779,7861,0.2263070856125175,NA,Asian,NA
+tanf,treatment,DSLPM,75% to 90%,1100,7861,0.13993130644956112,NA,Asian,NA
+tanf,treatment,DSLPM,90% to 100%,462,7861,0.058771148708815675,NA,Asian,NA
+tanf,treatment,DSLPM,0% to 50%,127968,208517,0.6137053573569541,NA,Black,NA
+tanf,treatment,DSLPM,50% to 75%,49978,208517,0.23968309538311025,NA,Black,NA
+tanf,treatment,DSLPM,75% to 90%,23118,208517,0.11086865819093887,NA,Black,NA
+tanf,treatment,DSLPM,90% to 100%,7453,208517,0.035742889068996773,NA,Black,NA
+tanf,treatment,DSLPM,0% to 50%,8009,11829,0.6770648406458704,NA,Hawaian,NA
+tanf,treatment,DSLPM,50% to 75%,2150,11829,0.1817566996364866,NA,Hawaian,NA
+tanf,treatment,DSLPM,75% to 90%,1123,11829,0.09493617381012766,NA,Hawaian,NA
+tanf,treatment,DSLPM,90% to 100%,547,11829,0.046242285907515425,NA,Hawaian,NA
+tanf,treatment,DSLPM,0% to 50%,60053,103205,0.581880722833196,NA,Hispanic,NA
+tanf,treatment,DSLPM,50% to 75%,24308,103205,0.2355312242623904,NA,Hispanic,NA
+tanf,treatment,DSLPM,75% to 90%,13167,103205,0.12758102805096652,NA,Hispanic,NA
+tanf,treatment,DSLPM,90% to 100%,5677,103205,0.05500702485344702,NA,Hispanic,NA
+tanf,treatment,DSLPM,0% to 50%,16503,24838,0.6644254770915533,NA,Multi-racial,NA
+tanf,treatment,DSLPM,50% to 75%,4923,24838,0.1982043642805379,NA,Multi-racial,NA
+tanf,treatment,DSLPM,75% to 90%,2290,24838,0.0921974394073597,NA,Multi-racial,NA
+tanf,treatment,DSLPM,90% to 100%,1122,24838,0.045172719220549155,NA,Multi-racial,NA
+tanf,treatment,DSLPM,0% to 50%,14867,22915,0.6487890028365699,NA,Native,NA
+tanf,treatment,DSLPM,50% to 75%,4467,22915,0.1949378136591752,NA,Native,NA
+tanf,treatment,DSLPM,75% to 90%,2418,22915,0.10552040148374427,NA,Native,NA
+tanf,treatment,DSLPM,90% to 100%,1163,22915,0.05075278202051058,NA,Native,NA
+tanf,treatment,DSLPM,0% to 50%,184825,240098,0.7697898358170414,NA,White,NA
+tanf,treatment,DSLPM,50% to 75%,36746,240098,0.15304583961549034,NA,White,NA
+tanf,treatment,DSLPM,75% to 90%,12798,240098,0.05330323451257403,NA,White,NA
+tanf,treatment,DSLPM,90% to 100%,5729,240098,0.02386109005489425,NA,White,NA
+tanf,treatment,DSLPM,0% to 50%,333798,439081,0.7602196405674579,NA,NA,5_and_over
+tanf,treatment,DSLPM,50% to 75%,71229,439081,0.16222291558960647,NA,NA,5_and_over
+tanf,treatment,DSLPM,75% to 90%,24125,439081,0.05494430412611796,NA,NA,5_and_over
+tanf,treatment,DSLPM,90% to 100%,9929,439081,0.022613139716817627,NA,NA,5_and_over
+tanf,treatment,DSLPM,0% to 50%,159067,222527,0.7148211228300386,NA,NA,under_5
+tanf,treatment,DSLPM,50% to 75%,41809,222527,0.18788281871413356,NA,NA,under_5
+tanf,treatment,DSLPM,75% to 90%,15364,222527,0.06904330710430645,NA,NA,under_5
+tanf,treatment,DSLPM,90% to 100%,6287,222527,0.028252751351521388,NA,NA,under_5
+tanf,treatment,DSLPM,0% to 50%,31304,42345,0.7392608336285276,NA,NA,NA
+tanf,treatment,DSLPM,50% to 75%,7153,42345,0.16892195064352344,NA,NA,NA
+tanf,treatment,DSLPM,75% to 90%,2951,42345,0.06968945566182548,NA,NA,NA
+tanf,treatment,DSLPM,90% to 100%,937,42345,0.02212776006612351,NA,NA,NA
+tanf,treatment,heat,0% to 50%,526542,637994,0.8253087019627143,NA,All,All
+tanf,treatment,heat,50% to 75%,77105,637994,0.1208553685457857,NA,All,All
+tanf,treatment,heat,75% to 90%,22743,637994,0.03564767066774922,NA,All,All
+tanf,treatment,heat,90% to 100%,11604,637994,0.018188258823750695,NA,All,All
+tanf,treatment,heat,0% to 50%,3796,6016,0.6309840425531915,NA,Asian,NA
+tanf,treatment,heat,50% to 75%,1422,6016,0.23636968085106383,NA,Asian,NA
+tanf,treatment,heat,75% to 90%,580,6016,0.09640957446808511,NA,Asian,NA
+tanf,treatment,heat,90% to 100%,218,6016,0.03623670212765957,NA,Asian,NA
+tanf,treatment,heat,0% to 50%,166918,207750,0.8034560770156438,NA,Black,NA
+tanf,treatment,heat,50% to 75%,31263,207750,0.15048375451263538,NA,Black,NA
+tanf,treatment,heat,75% to 90%,7294,207750,0.03510950661853189,NA,Black,NA
+tanf,treatment,heat,90% to 100%,2275,207750,0.01095066185318893,NA,Black,NA
+tanf,treatment,heat,0% to 50%,3150,4848,0.6497524752475248,NA,Hawaian,NA
+tanf,treatment,heat,50% to 75%,1201,4848,0.24773102310231024,NA,Hawaian,NA
+tanf,treatment,heat,75% to 90%,340,4848,0.07013201320132013,NA,Hawaian,NA
+tanf,treatment,heat,90% to 100%,157,4848,0.03238448844884489,NA,Hawaian,NA
+tanf,treatment,heat,0% to 50%,69727,100909,0.6909889108008206,NA,Hispanic,NA
+tanf,treatment,heat,50% to 75%,22540,100909,0.22336957060321677,NA,Hispanic,NA
+tanf,treatment,heat,75% to 90%,6520,100909,0.06461267082222596,NA,Hispanic,NA
+tanf,treatment,heat,90% to 100%,2122,100909,0.021028847773736734,NA,Hispanic,NA
+tanf,treatment,heat,0% to 50%,12380,18702,0.6619612875628275,NA,Multi-racial,NA
+tanf,treatment,heat,50% to 75%,4141,18702,0.221420168965886,NA,Multi-racial,NA
+tanf,treatment,heat,75% to 90%,1468,18702,0.07849427868677147,NA,Multi-racial,NA
+tanf,treatment,heat,90% to 100%,713,18702,0.03812426478451503,NA,Multi-racial,NA
+tanf,treatment,heat,0% to 50%,8800,22004,0.39992728594800947,NA,Native,NA
+tanf,treatment,heat,50% to 75%,5595,22004,0.2542719505544446,NA,Native,NA
+tanf,treatment,heat,75% to 90%,5329,22004,0.2421832394110162,NA,Native,NA
+tanf,treatment,heat,90% to 100%,2280,22004,0.10361752408652972,NA,Native,NA
+tanf,treatment,heat,0% to 50%,170215,235708,0.7221434995842313,NA,White,NA
+tanf,treatment,heat,50% to 75%,41046,235708,0.17413918916625656,NA,White,NA
+tanf,treatment,heat,75% to 90%,16034,235708,0.06802484429887827,NA,White,NA
+tanf,treatment,heat,90% to 100%,8413,235708,0.035692466950633835,NA,White,NA
+tanf,treatment,heat,0% to 50%,344044,423540,0.8123058034660244,NA,NA,5_and_over
+tanf,treatment,heat,50% to 75%,54673,423540,0.12908580063276195,NA,NA,5_and_over
+tanf,treatment,heat,75% to 90%,16828,423540,0.0397317844831657,NA,NA,5_and_over
+tanf,treatment,heat,90% to 100%,7995,423540,0.018876611418047883,NA,NA,5_and_over
+tanf,treatment,heat,0% to 50%,172656,214454,0.80509573148554,NA,NA,under_5
+tanf,treatment,heat,50% to 75%,29224,214454,0.1362716479991047,NA,NA,under_5
+tanf,treatment,heat,75% to 90%,8278,214454,0.03860035252315182,NA,NA,under_5
+tanf,treatment,heat,90% to 100%,4296,214454,0.020032267992203458,NA,NA,under_5
+tanf,treatment,heat,0% to 50%,30562,42057,0.72668045747438,NA,NA,NA
+tanf,treatment,heat,50% to 75%,8833,42057,0.2100244905723185,NA,NA,NA
+tanf,treatment,heat,75% to 90%,1800,42057,0.04279905842071474,NA,NA,NA
+tanf,treatment,heat,90% to 100%,862,42057,0.02049599353258673,NA,NA,NA
+tanf,treatment,OZONE,0% to 50%,584451,638012,0.9160501683353918,NA,All,All
+tanf,treatment,OZONE,50% to 75%,33454,638012,0.052434750443565326,NA,All,All
+tanf,treatment,OZONE,75% to 90%,14101,638012,0.022101465176203584,NA,All,All
+tanf,treatment,OZONE,90% to 100%,6006,638012,0.009413616044839281,NA,All,All
+tanf,treatment,OZONE,0% to 50%,4172,6016,0.6934840425531915,NA,Asian,NA
+tanf,treatment,OZONE,50% to 75%,1226,6016,0.20378989361702127,NA,Asian,NA
+tanf,treatment,OZONE,75% to 90%,404,6016,0.06715425531914894,NA,Asian,NA
+tanf,treatment,OZONE,90% to 100%,214,6016,0.0355718085106383,NA,Asian,NA
+tanf,treatment,OZONE,0% to 50%,184966,207750,0.8903297232250301,NA,Black,NA
+tanf,treatment,OZONE,50% to 75%,16965,207750,0.08166064981949459,NA,Black,NA
+tanf,treatment,OZONE,75% to 90%,4081,207750,0.019643802647412757,NA,Black,NA
+tanf,treatment,OZONE,90% to 100%,1738,207750,0.008365824308062575,NA,Black,NA
+tanf,treatment,OZONE,0% to 50%,3750,4848,0.7735148514851485,NA,Hawaian,NA
+tanf,treatment,OZONE,50% to 75%,610,4848,0.12582508250825084,NA,Hawaian,NA
+tanf,treatment,OZONE,75% to 90%,333,4848,0.0686881188118812,NA,Hawaian,NA
+tanf,treatment,OZONE,90% to 100%,155,4848,0.03197194719471947,NA,Hawaian,NA
+tanf,treatment,OZONE,0% to 50%,85245,100912,0.8447459172348185,NA,Hispanic,NA
+tanf,treatment,OZONE,50% to 75%,10553,100912,0.10457626446805138,NA,Hispanic,NA
+tanf,treatment,OZONE,75% to 90%,3446,100912,0.034148565086411925,NA,Hispanic,NA
+tanf,treatment,OZONE,90% to 100%,1668,100912,0.01652925321071825,NA,Hispanic,NA
+tanf,treatment,OZONE,0% to 50%,14550,18702,0.7779916586461341,NA,Multi-racial,NA
+tanf,treatment,OZONE,50% to 75%,2439,18702,0.13041385948026948,NA,Multi-racial,NA
+tanf,treatment,OZONE,75% to 90%,1079,18702,0.05769436423911881,NA,Multi-racial,NA
+tanf,treatment,OZONE,90% to 100%,634,18702,0.033900117634477596,NA,Multi-racial,NA
+tanf,treatment,OZONE,0% to 50%,9849,22004,0.44760043628431195,NA,Native,NA
+tanf,treatment,OZONE,50% to 75%,6217,22004,0.2825395382657699,NA,Native,NA
+tanf,treatment,OZONE,75% to 90%,2969,22004,0.1349300127249591,NA,Native,NA
+tanf,treatment,OZONE,90% to 100%,2969,22004,0.1349300127249591,NA,Native,NA
+tanf,treatment,OZONE,0% to 50%,199426,235723,0.8460184199250815,NA,White,NA
+tanf,treatment,OZONE,50% to 75%,22622,235723,0.09596857328304832,NA,White,NA
+tanf,treatment,OZONE,75% to 90%,9434,235723,0.04002155071842799,NA,White,NA
+tanf,treatment,OZONE,90% to 100%,4241,235723,0.017991456073442134,NA,White,NA
+tanf,treatment,OZONE,0% to 50%,383687,423552,0.9058793253248716,NA,NA,5_and_over
+tanf,treatment,OZONE,50% to 75%,24196,423552,0.057126397703233606,NA,NA,5_and_over
+tanf,treatment,OZONE,75% to 90%,10972,423552,0.025904729525536414,NA,NA,5_and_over
+tanf,treatment,OZONE,90% to 100%,4697,423552,0.011089547446358417,NA,NA,5_and_over
+tanf,treatment,OZONE,0% to 50%,193315,214460,0.9014035251328919,NA,NA,under_5
+tanf,treatment,OZONE,50% to 75%,12998,214460,0.060608038795113305,NA,NA,under_5
+tanf,treatment,OZONE,75% to 90%,5690,214460,0.026531754173272405,NA,NA,under_5
+tanf,treatment,OZONE,90% to 100%,2457,214460,0.011456681898722372,NA,NA,under_5
+tanf,treatment,OZONE,0% to 50%,36692,42057,0.8724350286515918,NA,NA,NA
+tanf,treatment,OZONE,50% to 75%,3493,42057,0.08305395059086478,NA,NA,NA
+tanf,treatment,OZONE,75% to 90%,1274,42057,0.03029222245999477,NA,NA,NA
+tanf,treatment,OZONE,90% to 100%,598,42057,0.014218798297548565,NA,NA,NA
+tanf,treatment,PM25,0% to 50%,584480,638012,0.916095622025918,NA,All,All
+tanf,treatment,PM25,50% to 75%,34051,638012,0.05337046952094945,NA,All,All
+tanf,treatment,PM25,75% to 90%,13321,638012,0.020878917637912768,NA,All,All
+tanf,treatment,PM25,90% to 100%,6160,638012,0.009654990815219776,NA,All,All
+tanf,treatment,PM25,0% to 50%,4127,6016,0.6860039893617021,NA,Asian,NA
+tanf,treatment,PM25,50% to 75%,1242,6016,0.2064494680851064,NA,Asian,NA
+tanf,treatment,PM25,75% to 90%,432,6016,0.07180851063829788,NA,Asian,NA
+tanf,treatment,PM25,90% to 100%,215,6016,0.035738031914893616,NA,Asian,NA
+tanf,treatment,PM25,0% to 50%,183412,207750,0.8828495788206979,NA,Black,NA
+tanf,treatment,PM25,50% to 75%,18411,207750,0.08862093862815884,NA,Black,NA
+tanf,treatment,PM25,75% to 90%,4146,207750,0.01995667870036101,NA,Black,NA
+tanf,treatment,PM25,90% to 100%,1781,207750,0.00857280385078219,NA,Black,NA
+tanf,treatment,PM25,0% to 50%,3616,4848,0.7458745874587459,NA,Hawaian,NA
+tanf,treatment,PM25,50% to 75%,703,4848,0.1450082508250825,NA,Hawaian,NA
+tanf,treatment,PM25,75% to 90%,360,4848,0.07425742574257425,NA,Hawaian,NA
+tanf,treatment,PM25,90% to 100%,169,4848,0.03485973597359736,NA,Hawaian,NA
+tanf,treatment,PM25,0% to 50%,85068,100912,0.8429919137466307,NA,Hispanic,NA
+tanf,treatment,PM25,50% to 75%,10767,100912,0.10669692405263992,NA,Hispanic,NA
+tanf,treatment,PM25,75% to 90%,3354,100912,0.03323687965752339,NA,Hispanic,NA
+tanf,treatment,PM25,90% to 100%,1723,100912,0.017074282543205963,NA,Hispanic,NA
+tanf,treatment,PM25,0% to 50%,14449,18702,0.7725911667201368,NA,Multi-racial,NA
+tanf,treatment,PM25,50% to 75%,2494,18702,0.13335472142016896,NA,Multi-racial,NA
+tanf,treatment,PM25,75% to 90%,1125,18702,0.060153994225216556,NA,Multi-racial,NA
+tanf,treatment,PM25,90% to 100%,634,18702,0.033900117634477596,NA,Multi-racial,NA
+tanf,treatment,PM25,0% to 50%,10221,22004,0.46450645337211416,NA,Native,NA
+tanf,treatment,PM25,50% to 75%,5995,22004,0.2724504635520814,NA,Native,NA
+tanf,treatment,PM25,75% to 90%,3664,22004,0.16651517905835303,NA,Native,NA
+tanf,treatment,PM25,90% to 100%,2124,22004,0.09652790401745137,NA,Native,NA
+tanf,treatment,PM25,0% to 50%,199488,235723,0.8462814405043207,NA,White,NA
+tanf,treatment,PM25,50% to 75%,22201,235723,0.09418257870466606,NA,White,NA
+tanf,treatment,PM25,75% to 90%,9732,235723,0.04128574640573894,NA,White,NA
+tanf,treatment,PM25,90% to 100%,4302,235723,0.01825023438527424,NA,White,NA
+tanf,treatment,PM25,0% to 50%,383533,423552,0.9055157336053188,NA,NA,5_and_over
+tanf,treatment,PM25,50% to 75%,25043,423552,0.059126152160773646,NA,NA,5_and_over
+tanf,treatment,PM25,75% to 90%,10294,423552,0.02430398156542762,NA,NA,5_and_over
+tanf,treatment,PM25,90% to 100%,4682,423552,0.011054132668479903,NA,NA,5_and_over
+tanf,treatment,PM25,0% to 50%,193126,214460,0.9005222419099133,NA,NA,under_5
+tanf,treatment,PM25,50% to 75%,13715,214460,0.06395131959339737,NA,NA,under_5
+tanf,treatment,PM25,75% to 90%,5111,214460,0.023831950013988624,NA,NA,under_5
+tanf,treatment,PM25,90% to 100%,2508,214460,0.011694488482700736,NA,NA,under_5
+tanf,treatment,PM25,0% to 50%,37180,42057,0.8840383289345413,NA,NA,NA
+tanf,treatment,PM25,50% to 75%,3135,42057,0.07454169341607818,NA,NA,NA
+tanf,treatment,PM25,75% to 90%,1148,42057,0.027296288370544736,NA,NA,NA
+tanf,treatment,PM25,90% to 100%,594,42057,0.014123689278835866,NA,NA,NA
+tanf,treatment,PRE1960PCT,0% to 50%,584764,661608,0.8838526740910025,NA,All,All
+tanf,treatment,PRE1960PCT,50% to 75%,56000,661608,0.08464226551069516,NA,All,All
+tanf,treatment,PRE1960PCT,75% to 90%,14539,661608,0.02197524818321423,NA,All,All
+tanf,treatment,PRE1960PCT,90% to 100%,6305,661608,0.009529812215088088,NA,All,All
+tanf,treatment,PRE1960PCT,0% to 50%,4352,7861,0.5536191324259,NA,Asian,NA
+tanf,treatment,PRE1960PCT,50% to 75%,2185,7861,0.2779544587202646,NA,Asian,NA
+tanf,treatment,PRE1960PCT,75% to 90%,990,7861,0.125938175804605,NA,Asian,NA
+tanf,treatment,PRE1960PCT,90% to 100%,334,7861,0.04248823304923038,NA,Asian,NA
+tanf,treatment,PRE1960PCT,0% to 50%,142956,208517,0.6855843888028315,NA,Black,NA
+tanf,treatment,PRE1960PCT,50% to 75%,51339,208517,0.24621014113957135,NA,Black,NA
+tanf,treatment,PRE1960PCT,75% to 90%,11733,208517,0.0562687934317106,NA,Black,NA
+tanf,treatment,PRE1960PCT,90% to 100%,2489,208517,0.011936676625886619,NA,Black,NA
+tanf,treatment,PRE1960PCT,0% to 50%,8938,11829,0.7556006424887988,NA,Hawaian,NA
+tanf,treatment,PRE1960PCT,50% to 75%,1881,11829,0.15901597768196804,NA,Hawaian,NA
+tanf,treatment,PRE1960PCT,75% to 90%,638,11829,0.05393524389212951,NA,Hawaian,NA
+tanf,treatment,PRE1960PCT,90% to 100%,372,11829,0.03144813593710373,NA,Hawaian,NA
+tanf,treatment,PRE1960PCT,0% to 50%,76672,103205,0.7429097427450221,NA,Hispanic,NA
+tanf,treatment,PRE1960PCT,50% to 75%,19995,103205,0.19374061334237683,NA,Hispanic,NA
+tanf,treatment,PRE1960PCT,75% to 90%,4911,103205,0.04758490383217867,NA,Hispanic,NA
+tanf,treatment,PRE1960PCT,90% to 100%,1627,103205,0.01576474008042246,NA,Hispanic,NA
+tanf,treatment,PRE1960PCT,0% to 50%,17216,24838,0.6931314920686046,NA,Multi-racial,NA
+tanf,treatment,PRE1960PCT,50% to 75%,5144,24838,0.20710202109670667,NA,Multi-racial,NA
+tanf,treatment,PRE1960PCT,75% to 90%,1672,24838,0.06731620903454384,NA,Multi-racial,NA
+tanf,treatment,PRE1960PCT,90% to 100%,806,24838,0.032450277800144936,NA,Multi-racial,NA
+tanf,treatment,PRE1960PCT,0% to 50%,10370,22915,0.4525420030547676,NA,Native,NA
+tanf,treatment,PRE1960PCT,50% to 75%,7111,22915,0.31032075060004366,NA,Native,NA
+tanf,treatment,PRE1960PCT,75% to 90%,3835,22915,0.1673576260091643,NA,Native,NA
+tanf,treatment,PRE1960PCT,90% to 100%,1599,22915,0.06977962033602444,NA,Native,NA
+tanf,treatment,PRE1960PCT,0% to 50%,195098,240098,0.8125765312497397,NA,White,NA
+tanf,treatment,PRE1960PCT,50% to 75%,29661,240098,0.12353705570225491,NA,White,NA
+tanf,treatment,PRE1960PCT,75% to 90%,10708,240098,0.0445984556306175,NA,White,NA
+tanf,treatment,PRE1960PCT,90% to 100%,4631,240098,0.0192879574173879,NA,White,NA
+tanf,treatment,PRE1960PCT,0% to 50%,382591,439081,0.8713449226908019,NA,NA,5_and_over
+tanf,treatment,PRE1960PCT,50% to 75%,40681,439081,0.09265033103231522,NA,NA,5_and_over
+tanf,treatment,PRE1960PCT,75% to 90%,11069,439081,0.025209471600911904,NA,NA,5_and_over
+tanf,treatment,PRE1960PCT,90% to 100%,4740,439081,0.010795274675970948,NA,NA,5_and_over
+tanf,treatment,PRE1960PCT,0% to 50%,187894,222527,0.8443649534663209,NA,NA,under_5
+tanf,treatment,PRE1960PCT,50% to 75%,25869,222527,0.11625106166892107,NA,NA,under_5
+tanf,treatment,PRE1960PCT,75% to 90%,6054,222527,0.027205687399731268,NA,NA,under_5
+tanf,treatment,PRE1960PCT,90% to 100%,2710,222527,0.012178297465026716,NA,NA,under_5
+tanf,treatment,PRE1960PCT,0% to 50%,33199,42345,0.7840122800802928,NA,NA,NA
+tanf,treatment,PRE1960PCT,50% to 75%,7119,42345,0.16811902231668438,NA,NA,NA
+tanf,treatment,PRE1960PCT,75% to 90%,1308,42345,0.030889125044279136,NA,NA,NA
+tanf,treatment,PRE1960PCT,90% to 100%,719,42345,0.016979572558743654,NA,NA,NA
+tanf,treatment,precipitation,0% to 50%,564141,637994,0.8842418580739004,NA,All,All
+tanf,treatment,precipitation,50% to 75%,47125,637994,0.07386433101251735,NA,All,All
+tanf,treatment,precipitation,75% to 90%,17112,637994,0.02682156885487951,NA,All,All
+tanf,treatment,precipitation,90% to 100%,9616,637994,0.015072242058702747,NA,All,All
+tanf,treatment,precipitation,0% to 50%,3755,6016,0.6241688829787234,NA,Asian,NA
+tanf,treatment,precipitation,50% to 75%,1459,6016,0.24251994680851063,NA,Asian,NA
+tanf,treatment,precipitation,75% to 90%,591,6016,0.09823803191489362,NA,Asian,NA
+tanf,treatment,precipitation,90% to 100%,211,6016,0.03507313829787234,NA,Asian,NA
+tanf,treatment,precipitation,0% to 50%,179200,207750,0.862575210589651,NA,Black,NA
+tanf,treatment,precipitation,50% to 75%,20739,207750,0.09982671480144405,NA,Black,NA
+tanf,treatment,precipitation,75% to 90%,5793,207750,0.02788447653429603,NA,Black,NA
+tanf,treatment,precipitation,90% to 100%,2018,207750,0.009713598074608904,NA,Black,NA
+tanf,treatment,precipitation,0% to 50%,3075,4848,0.6342821782178217,NA,Hawaian,NA
+tanf,treatment,precipitation,50% to 75%,1223,4848,0.2522689768976898,NA,Hawaian,NA
+tanf,treatment,precipitation,75% to 90%,377,4848,0.07776402640264027,NA,Hawaian,NA
+tanf,treatment,precipitation,90% to 100%,173,4848,0.035684818481848186,NA,Hawaian,NA
+tanf,treatment,precipitation,0% to 50%,85460,100909,0.8469016638753729,NA,Hispanic,NA
+tanf,treatment,precipitation,50% to 75%,10524,100909,0.1042919858486359,NA,Hispanic,NA
+tanf,treatment,precipitation,75% to 90%,3296,100909,0.032663092489272516,NA,Hispanic,NA
+tanf,treatment,precipitation,90% to 100%,1629,100909,0.016143257786718726,NA,Hispanic,NA
+tanf,treatment,precipitation,0% to 50%,13893,18702,0.7428617260186077,NA,Multi-racial,NA
+tanf,treatment,precipitation,50% to 75%,2974,18702,0.15902042562292804,NA,Multi-racial,NA
+tanf,treatment,precipitation,75% to 90%,1200,18702,0.06416426050689766,NA,Multi-racial,NA
+tanf,treatment,precipitation,90% to 100%,635,18702,0.03395358785156668,NA,Multi-racial,NA
+tanf,treatment,precipitation,0% to 50%,11120,22004,0.5053626613343029,NA,Native,NA
+tanf,treatment,precipitation,50% to 75%,4672,22004,0.21232503181239776,NA,Native,NA
+tanf,treatment,precipitation,75% to 90%,4205,22004,0.19110161788765678,NA,Native,NA
+tanf,treatment,precipitation,90% to 100%,2007,22004,0.0912106889656426,NA,Native,NA
+tanf,treatment,precipitation,0% to 50%,185868,235708,0.7885519371425662,NA,White,NA
+tanf,treatment,precipitation,50% to 75%,29928,235708,0.12697065861150236,NA,White,NA
+tanf,treatment,precipitation,75% to 90%,12012,235708,0.050961358969572525,NA,White,NA
+tanf,treatment,precipitation,90% to 100%,7900,235708,0.03351604527635888,NA,White,NA
+tanf,treatment,precipitation,0% to 50%,370001,423540,0.8735916324314115,NA,NA,5_and_over
+tanf,treatment,precipitation,50% to 75%,33339,423540,0.07871511545544695,NA,NA,5_and_over
+tanf,treatment,precipitation,75% to 90%,13092,423540,0.030910893894319308,NA,NA,5_and_over
+tanf,treatment,precipitation,90% to 100%,7108,423540,0.016782358218822308,NA,NA,5_and_over
+tanf,treatment,precipitation,0% to 50%,187357,214454,0.8736465628992698,NA,NA,under_5
+tanf,treatment,precipitation,50% to 75%,16998,214454,0.0792617531032296,NA,NA,under_5
+tanf,treatment,precipitation,75% to 90%,6359,214454,0.0296520465927425,NA,NA,under_5
+tanf,treatment,precipitation,90% to 100%,3740,214454,0.01743963740475813,NA,NA,under_5
+tanf,treatment,precipitation,0% to 50%,37440,42057,0.8902204151508667,NA,NA,NA
+tanf,treatment,precipitation,50% to 75%,2880,42057,0.0684784934731436,NA,NA,NA
+tanf,treatment,precipitation,75% to 90%,1105,42057,0.02627386641938322,NA,NA,NA
+tanf,treatment,precipitation,90% to 100%,632,42057,0.01502722495660651,NA,NA,NA
+tanf,treatment,RESP,0% to 50%,593414,661608,0.8969268811743509,NA,All,All
+tanf,treatment,RESP,50% to 75%,43059,661608,0.06508234483258969,NA,All,All
+tanf,treatment,RESP,75% to 90%,17956,661608,0.02713993784839361,NA,All,All
+tanf,treatment,RESP,90% to 100%,7179,661608,0.010850836144665723,NA,All,All
+tanf,treatment,RESP,0% to 50%,5195,7861,0.6608573972777,NA,Asian,NA
+tanf,treatment,RESP,50% to 75%,1664,7861,0.21167790357460883,NA,Asian,NA
+tanf,treatment,RESP,75% to 90%,666,7861,0.08472204554127974,NA,Asian,NA
+tanf,treatment,RESP,90% to 100%,336,7861,0.0427426536064114,NA,Asian,NA
+tanf,treatment,RESP,0% to 50%,177422,208517,0.8508754681872461,NA,Black,NA
+tanf,treatment,RESP,50% to 75%,22255,208517,0.10672990691406456,NA,Black,NA
+tanf,treatment,RESP,75% to 90%,6493,208517,0.03113894790352825,NA,Black,NA
+tanf,treatment,RESP,90% to 100%,2347,208517,0.011255676995161066,NA,Black,NA
+tanf,treatment,RESP,0% to 50%,9153,11829,0.7737763124524474,NA,Hawaian,NA
+tanf,treatment,RESP,50% to 75%,1703,11829,0.1439682137120636,NA,Hawaian,NA
+tanf,treatment,RESP,75% to 90%,705,11829,0.05959928988080142,NA,Hawaian,NA
+tanf,treatment,RESP,90% to 100%,268,11829,0.02265618395468763,NA,Hawaian,NA
+tanf,treatment,RESP,0% to 50%,79939,103205,0.7745651857952619,NA,Hispanic,NA
+tanf,treatment,RESP,50% to 75%,15464,103205,0.1498377016617412,NA,Hispanic,NA
+tanf,treatment,RESP,75% to 90%,5382,103205,0.052148636209485975,NA,Hispanic,NA
+tanf,treatment,RESP,90% to 100%,2420,103205,0.02344847633351097,NA,Hispanic,NA
+tanf,treatment,RESP,0% to 50%,19182,24838,0.7722844029309929,NA,Multi-racial,NA
+tanf,treatment,RESP,50% to 75%,3426,24838,0.13793381109590144,NA,Multi-racial,NA
+tanf,treatment,RESP,75% to 90%,1479,24838,0.059545857154360254,NA,Multi-racial,NA
+tanf,treatment,RESP,90% to 100%,751,24838,0.03023592881874547,NA,Multi-racial,NA
+tanf,treatment,RESP,0% to 50%,11980,22915,0.522801658302422,NA,Native,NA
+tanf,treatment,RESP,50% to 75%,4555,22915,0.1987780929522147,NA,Native,NA
+tanf,treatment,RESP,75% to 90%,3838,22915,0.167488544621427,NA,Native,NA
+tanf,treatment,RESP,90% to 100%,2542,22915,0.11093170412393628,NA,Native,NA
+tanf,treatment,RESP,0% to 50%,198777,240098,0.8278994410615665,NA,White,NA
+tanf,treatment,RESP,50% to 75%,25470,240098,0.10608168331264733,NA,White,NA
+tanf,treatment,RESP,75% to 90%,10599,240098,0.04414447433964464,NA,White,NA
+tanf,treatment,RESP,90% to 100%,5252,240098,0.02187440128614149,NA,White,NA
+tanf,treatment,RESP,0% to 50%,389080,439081,0.8861235170731596,NA,NA,5_and_over
+tanf,treatment,RESP,50% to 75%,32356,439081,0.07369027582610042,NA,NA,5_and_over
+tanf,treatment,RESP,75% to 90%,11987,439081,0.027300202012840457,NA,NA,5_and_over
+tanf,treatment,RESP,90% to 100%,5658,439081,0.0128860050878995,NA,NA,5_and_over
+tanf,treatment,RESP,0% to 50%,194542,222527,0.8742399798676116,NA,NA,under_5
+tanf,treatment,RESP,50% to 75%,18705,222527,0.08405721552890211,NA,NA,under_5
+tanf,treatment,RESP,75% to 90%,6242,222527,0.028050528699888104,NA,NA,under_5
+tanf,treatment,RESP,90% to 100%,3038,222527,0.013652275903598216,NA,NA,under_5
+tanf,treatment,RESP,0% to 50%,36954,42345,0.8726886291179596,NA,NA,NA
+tanf,treatment,RESP,50% to 75%,3538,42345,0.0835517770693116,NA,NA,NA
+tanf,treatment,RESP,75% to 90%,1056,42345,0.02493800921006022,NA,NA,NA
+tanf,treatment,RESP,90% to 100%,797,42345,0.018821584602668556,NA,NA,NA
+tanf,comparison,CANCER,0% to 50%,122520452,149416383,0.8199934273606395,NA,NA,NA
+tanf,comparison,CANCER,50% to 75%,17576925,149416383,0.11763720046683235,NA,NA,NA
+tanf,comparison,CANCER,75% to 90%,5946249,149416383,0.039796499424029026,NA,NA,NA
+tanf,comparison,CANCER,90% to 100%,3372757,149416383,0.022572872748499073,NA,NA,NA
+tanf,comparison,DSLPM,0% to 50%,108489971,149416383,0.7260915357588331,NA,NA,NA
+tanf,comparison,DSLPM,50% to 75%,27804949,149416383,0.18609036333050574,NA,NA,NA
+tanf,comparison,DSLPM,75% to 90%,9344946,149416383,0.06254298097953556,NA,NA,NA
+tanf,comparison,DSLPM,90% to 100%,3776517,149416383,0.025275119931125627,NA,NA,NA
+tanf,comparison,heat,0% to 50%,234764666,297040394,0.7903459285069492,NA,NA,NA
+tanf,comparison,heat,50% to 75%,44184824,297040394,0.14875022014682623,NA,NA,NA
+tanf,comparison,heat,75% to 90%,12180258,297040394,0.04100539268743362,NA,NA,NA
+tanf,comparison,heat,90% to 100%,5910646,297040394,0.019898458658791033,NA,NA,NA
+tanf,comparison,OZONE,0% to 50%,124674796,148530370,0.8393892508313283,NA,NA,NA
+tanf,comparison,OZONE,50% to 75%,15914834,148530370,0.10714868615758515,NA,NA,NA
+tanf,comparison,OZONE,75% to 90%,5235865,148530370,0.03525114089461973,NA,NA,NA
+tanf,comparison,OZONE,90% to 100%,2704875,148530370,0.01821092211646682,NA,NA,NA
+tanf,comparison,PM25,0% to 50%,123811798,148530370,0.8335790047516881,NA,NA,NA
+tanf,comparison,PM25,50% to 75%,16361129,148530370,0.11015342518839749,NA,NA,NA
+tanf,comparison,PM25,75% to 90%,5530632,148530370,0.03723569799226919,NA,NA,NA
+tanf,comparison,PM25,90% to 100%,2826811,148530370,0.019031872067645155,NA,NA,NA
+tanf,comparison,PRE1960PCT,0% to 50%,124416355,149416383,0.8326821497211587,NA,NA,NA
+tanf,comparison,PRE1960PCT,50% to 75%,16790455,149416383,0.11237358757372677,NA,NA,NA
+tanf,comparison,PRE1960PCT,75% to 90%,5714488,149416383,0.0382453910693314,NA,NA,NA
+tanf,comparison,PRE1960PCT,90% to 100%,2495085,149416383,0.016698871635783073,NA,NA,NA
+tanf,comparison,RESP,0% to 50%,120498739,149416383,0.8064626955934276,NA,NA,NA
+tanf,comparison,RESP,50% to 75%,17571607,149416383,0.11760160865358386,NA,NA,NA
+tanf,comparison,RESP,75% to 90%,7106342,149416383,0.047560661403508876,NA,NA,NA
+tanf,comparison,RESP,90% to 100%,4239695,149416383,0.028375034349479602,NA,NA,NA
